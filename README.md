@@ -1,7 +1,7 @@
 ## Prerequisites
 - JDK 1.8 or later
-- Maven 3 or later
 - MySQL 5.6 or later
+- Maven 3 or later
 
 ## Technologies 
 - Spring MVC
@@ -10,11 +10,14 @@
 - Maven
 - JSP
 - MySQL
+- 
 ## Database
-Here,we used Mysql DB 
-MSQL DB Installation Steps for Linux ubuntu 14.04:
+We Used MySQL Database here
+MySQL DB Installation Steps for Linux ubuntu 14.04:
 - $ sudo apt-get update
 - $ sudo apt-get install mysql-server
+
+Next Step:
 
 Then look for the file :
 - /src/main/resources/accountsdb
